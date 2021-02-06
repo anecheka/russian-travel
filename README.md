@@ -5,7 +5,7 @@
 
 В основе проекта: 
 
-* общий бриф: [Ссылка на макет в Figma](https://www.figma.com/file/OyRWEjU6wBwRe1hapzQoLx/Sprint-3%3A-Russia-%2F-desktop-%2B-mobile?node-id=28503%3A0); 
+* общий бриф: [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0); 
 * верстка с адаптивностью по брейкпойнтам (320, 640, 768, 1024, 1280); 
 * использование флексов, гридов и медиа выражения для реализации адаптивности. 
 
