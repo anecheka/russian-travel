@@ -1,0 +1,15 @@
+.root__section-margin_bottom {
+    margin-bottom: 92px;
+}
+
+@media (max-width: 768px) {
+    .root__section-margin_bottom {
+      margin-bottom: 88px;
+    }
+}
+
+@media (max-width: 768px) {
+    .root__section-margin_bottom {
+      margin-bottom: 64px;
+    }
+}

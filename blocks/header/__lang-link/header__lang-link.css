@@ -1,0 +1,24 @@
+.header__lang-link {
+    color: #fff;
+    margin-left: 0;
+    padding-left: 0;
+    padding-right: 18px;
+    font-size: 1.5rem;
+    line-height: 1.2;
+}
+
+.header__lang-link:last-child {
+    padding-right: 0;
+}
+
+.header__lang-link:hover {
+    opacity: 80%;
+    cursor: pointer;
+}
+
+@media (max-width: 320px) {
+    .header__lang-link {
+        font-size: 18px; 
+        line-height: 20px;
+    }
+}

@@ -1,0 +1,8 @@
+.header__lang-lnks {
+    list-style-type: none;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+    margin: 0;
+    padding: 0;
+}
