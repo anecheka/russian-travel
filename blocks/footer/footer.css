@@ -20,3 +20,10 @@
         padding: 0 0 24px 16px;
     }
 }
+
+@media (min-width: 1280px) {
+    .footer {
+        width: 1184px;
+        align-self: center;
+    }
+}

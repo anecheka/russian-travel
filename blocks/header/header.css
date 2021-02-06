@@ -24,3 +24,10 @@
         padding: 16px 16px 35px;
     }
 }
+
+@media (min-width: 1280px) {
+    .header {
+        width: 1184px;
+        align-self: center;
+    }
+}
