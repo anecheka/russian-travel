@@ -11,10 +11,22 @@
     position: relative;
 }
 
-@media (max-width: 320px) {
+@media (max-width: 720px) {
+  .cover__title {
+    font-size: 60px;
+    line-height: 64px;
+  }
+}
+
+@media (max-width: 480px) {
     .cover__title {
         font-size: 32px;
         line-height: 35px;
+    }
+}
+
+@media (max-width: 320px) {
+    .cover__title {
         margin-bottom: 16px;
     }
 }
