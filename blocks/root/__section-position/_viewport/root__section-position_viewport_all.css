@@ -1,18 +1,18 @@
-.root__section-position {
+.root__section-position_viewport_all {
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 92px;
 }
 
 @media (max-width: 1024px) {
-    .root__section-position {
+  .root__section-position_viewport_all {
       margin-left: 48px;
       margin-right: 48px;
     }
 }
 
 @media (max-width: 768px) {
-    .root__section-position {
+  .root__section-position_viewport_all {
       margin-left: 24px;
       margin-right: 24px;
       margin-bottom: 88px;
@@ -20,15 +20,9 @@
 }
 
 @media (max-width: 320px) {
-    .root__section-position {
+  .root__section-position_viewport_all {
       margin-left: 0;
       margin-right: 0;
       margin-bottom: 64px;
     }
 }
-
-@media (max-width: 320px) {
-    .root__section-position:first-child {
-      margin-bottom: 77px;
-    }
-  }
