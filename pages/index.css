@@ -1,7 +1,7 @@
 @import url("../vendor/normalize.css");
 @import url("../fonts/fonts.css");
 @import url("../blocks/root/root.css");
-@import url("../blocks/root/__section-position/_viewport/root__section-position_viewport_all.css");
+@import url("../blocks/root/__section-position/root__section-position.css");
 @import url("../blocks/root/__section-position/_viewport/root__section-position_viewport_medium.css");
 @import url("../blocks/header/header.css");
 @import url("../blocks/header/__logo/header__logo.css");
