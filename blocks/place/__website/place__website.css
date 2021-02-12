@@ -21,6 +21,7 @@
 @media (max-width: 640px) {
     .place__website {
         align-self: flex-start;
+        margin-bottom: 32px;
     }
 }
 
@@ -28,6 +29,5 @@
     .place__website {
         padding-left: 16px;
         padding-right: 16px;
-        margin-bottom: 0;
     }
 }
